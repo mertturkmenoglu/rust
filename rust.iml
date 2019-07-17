@@ -30,11 +30,16 @@
       <sourceFolder url="file://$MODULE_DIR$/src/e004_function/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/e004_function/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/e004_function/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/e005_data_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/e005_data_types/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/e005_data_types/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/e005_data_types/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/src/a/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/e001_hello_world/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/e002_basics/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/e003_variables/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/e004_function/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/e005_data_types/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
