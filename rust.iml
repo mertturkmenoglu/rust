@@ -22,9 +22,14 @@
       <sourceFolder url="file://$MODULE_DIR$/src/e002_basics/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/e002_basics/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/e002_basics/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/e003_variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/e003_variables/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/e003_variables/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/e003_variables/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/src/a/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/e001_hello_world/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/e002_basics/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/e003_variables/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
