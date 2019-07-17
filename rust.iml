@@ -38,6 +38,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src/e006_match/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/e006_match/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/e006_match/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/e007_vectors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/e007_vectors/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/e007_vectors/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/e007_vectors/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/src/a/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/e001_hello_world/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/e002_basics/target" />
@@ -45,6 +49,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/e004_function/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/e005_data_types/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/e006_match/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/e007_vectors/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
