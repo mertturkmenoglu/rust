@@ -1,5 +1,1 @@
-/target
-**/*.rs.bk
-/src/**/target/
-/src/e001_hello_world/target/
-/src/e002_basics/target/
+old_examples/
