@@ -1,17 +1,17 @@
-![GitHub top language](https://img.shields.io/github/languages/top/mertturkmenoglu/rust.svg) ![GitHub](https://img.shields.io/github/license/mertturkmenoglu/rust.svg) ![GitHub followers](https://img.shields.io/github/followers/mertturkmenoglu.svg?style=social)
 # Rust Language Examples
+![GitHub top language](https://img.shields.io/github/languages/top/mertturkmenoglu/rust.svg) ![GitHub](https://img.shields.io/github/license/mertturkmenoglu/rust.svg) ![GitHub followers](https://img.shields.io/github/followers/mertturkmenoglu.svg?style=social)
 ***
 # Description
 * This repository contains my **Rust** language example codes.
 * Official Rust website: https://www.rust-lang.org/
-* See the LICENSE file for details.
+* See the **LICENSE** file for details.
 * You need to install **Rust** to your system. Please follow the [original source].
 ***
 # Build
 #### Tools Required
-* Rust Compiler(rustc)
-* Cargo(package manager)
-* A text editor(Atom, Visual Studio Code, Vim, ...)
+* Rust Compiler(**rustc**)
+* **Cargo**(package manager)
+* A text editor(Atom, **Visual Studio Code**, Vim, ...)
 #### Setup
 * You need **Rust** on your system.
 * **Fork** and **clone** the repository:
